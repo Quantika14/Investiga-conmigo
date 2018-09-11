@@ -1,0 +1,222 @@
+[
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625300>,PSOE-A,Almendro, El\n",
+        "companies": "{u'date_from': u'2015-09-09', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'title': u'Vicepresid.'}, {u'date_from': u'2015-09-09', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'title': u'Consejero'}{u'title': u'Vicepresid.', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2011-09-30'}, {u'title': u'Consejero', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2011-09-30'}, {u'date_from': u'2011-09-30', u'title': u'Vicepresid.', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2015-09-09'}, {u'date_from': u'2011-09-30', u'title': u'Consejero', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2015-09-09'}],",
+        "name": "MARÍA ALONSO MORA NÚÑEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625300>,PSOE-A,Almonte\n",
+        "companies": "{u'date_from': u'2009-03-23', u'name': u'Parque Dunar De Do\\xf1ana SL', u'title': u'Consejero'}, {u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}{u'date_from': u'2009-03-23', u'title': u'Consejero', u'name': u'Parque Dunar De Do\\xf1ana SL', u'date_to': u'2011-12-23'}],",
+        "name": "MARIA DEL ROCIO ESPINOSA DE LA TORRE"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625300>,P.S.O.E- A,Aracena\n",
+        "companies": "{u'date_from': u'2014-06-06', u'name': u'Supermercados Agolada SL', u'title': u'Adm. Unico'}{u'date_from': u'2010-05-31', u'title': u'Adm. Solid.', u'name': u'Supermercados Agolada SL', u'date_to': u'2014-06-06'}],",
+        "name": "MANUEL GUERRA GONZALEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625300>,P.S.O.E.-A,Aroche\n",
+        "companies": "{u'date_from': u'2012-09-21', u'name': u'Emdaro Aroche SL', u'title': u'Presidente'}, {u'date_from': u'2012-09-21', u'name': u'Emdaro Aroche SL', u'title': u'Consejero'}, {u'date_from': u'2012-09-21', u'name': u'Emdaro Aroche SL', u'title': u'Con.Delegado'}, {u'date_from': u'2016-11-30', u'name': u'Emdaro Aroche SL', u'title': u'Presidente'}, {u'date_from': u'2016-11-30', u'name': u'Emdaro Aroche SL', u'title': u'Consejero'}{u'date_from': u'2010-12-14', u'title': u'Presidente', u'name': u'Emdaro Aroche SL', u'date_to': u'2016-11-30'}, {u'date_from': u'2010-12-14', u'title': u'Consejero', u'name': u'Emdaro Aroche SL', u'date_to': u'2016-11-30'}, {u'date_from': u'2010-12-14', u'title': u'Con.Delegado', u'name': u'Emdaro Aroche SL', u'date_to': u'2016-11-30'}],",
+        "name": "ANTONIO MUÑIZ CARRASCO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625540>,PP,Ayamonte\n",
+        "companies": "{u'date_from': u'2016-07-14', u'name': u'Terrenos Urbanizables De Ayamonte SA', u'title': u'Presidente'}, {u'date_from': u'2016-07-14', u'name': u'Terrenos Urbanizables De Ayamonte SA', u'title': u'Consejero'}],",
+        "name": "MANUEL ALBERTO FERNÁNDEZ RODRÍGUEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,IB,Bollullos Par del Condado\n",
+        "companies": "{u'date_from': u'2017-08-11', u'name': u'Bubulca SA', u'title': u'Presidente'}, {u'date_from': u'2017-08-11', u'name': u'Bubulca SA', u'title': u'Consejero'}{u'date_from': u'2017-01-26', u'title': u'Vicepresid.', u'name': u'Bubulca SA', u'date_to': u'2017-08-11'}, {u'date_from': u'2017-01-26', u'title': u'Consejero', u'name': u'Bubulca SA', u'date_to': u'2017-08-11'}],",
+        "name": "ISABEL MARIA VALDAYO FERNANDEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625420>,PSOE-A,Bonares\n",
+        "companies": "{u'date_from': u'2010-12-27', u'name': u'Grupo Medico Premier SL', u'title': u'Adm. Unico'}, {u'date_from': u'2011-11-16', u'name': u'Hacienda Ahumada SL', u'title': u'Adm. Unico'}, {u'date_from': u'2013-01-14', u'name': u'Gobarsegur SL', u'title': u'Adm. Unico'}, {u'date_from': u'2013-10-28', u'name': u'Servicios De Vigilancia Salud Y Psicologia SL', u'title': u'Adm. Solid.'}, {u'date_from': u'2016-01-04', u'name': u'Gestisan Soluciones Sanitarias SL', u'title': u'Adm. Solid.'}, {u'date_from': u'2016-01-18', u'name': u'Openlex, Asistencia Legal SLP', u'title': u'Soc.Prof.'}, {u'date_from': u'2018-03-23', u'name': u'Europreven Servicios De Prevencion De Riesgos Laborales SA', u'title': u'Apoderado'}{u'date_from': u'2012-04-11', u'title': u'Apoderado', u'name': u'Europreven Servicios De Prevencion De Riesgos Laborales SA', u'date_to': u'2017-09-21'}],",
+        "name": "JUAN ANTONIO GARCÍA GARCÍA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Cabezas Rubias\n",
+        "companies": "{u'date_from': u'2009-04-13', u'title': u'Adm. Unico', u'name': u'Ecoturismo Rural SL', u'date_to': u'2009-12-30'}],",
+        "name": "RAFAEL GONZALEZ GUZMAN"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PP,Calañas\n",
+        "companies": "{u'date_from': u'2013-04-19', u'name': u'Promociones Gonpe\\xf1a SL', u'title': u'Adm. Solid.'}, {u'date_from': u'2013-05-09', u'name': u'Covasan 2000 SL', u'title': u'Adm. Solid.'}{u'title': u'Adm. Mancom.', u'name': u'Covasan 2000 SL', u'date_to': u'2010-06-25'}],",
+        "name": "MARIO PEÑA GONZALEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Campofrío\n",
+        "companies": "{u'date_from': u'2011-07-14', u'title': u'Apo.Man.Soli', u'name': u'Banco Mare Nostrum SA', u'date_to': u'2018-03-06'}],",
+        "name": "MERCEDES LOPEZ CARRION"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,ICAR,Cartaya\n",
+        "companies": "{u'date_from': u'2011-12-23', u'name': u'Empresa Municipal Del Suelo Y Vivienda De Cartaya SA', u'title': u'Apo.Sol.'}, {u'date_from': u'2016-09-13', u'name': u'Empresa Municipal Del Suelo Y Vivienda De Cartaya SA', u'title': u'Presidente'}, {u'date_from': u'2016-09-13', u'name': u'Empresa Municipal Del Suelo Y Vivienda De Cartaya SA', u'title': u'Consejero'}{u'title': u'Consejero', u'name': u'Empresa Municipal Del Suelo Y Vivienda De Cartaya SA', u'date_to': u'2009-07-20'}, {u'date_from': u'2011-12-23', u'title': u'Consejero', u'name': u'Empresa Municipal Del Suelo Y Vivienda De Cartaya SA', u'date_to': u'2016-09-13'}, {u'date_from': u'2011-12-23', u'title': u'Presidente', u'name': u'Empresa Municipal Del Suelo Y Vivienda De Cartaya SA', u'date_to': u'2016-09-13'}],",
+        "name": "JUAN MIGUEL POLO PLANA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Corteconcepción\n",
+        "companies": "{u'date_from': u'2015-11-11', u'name': u'Linea Verde Empresa Municipal De Recursos De Corteconcepcion SL', u'title': u'Presidente'}, {u'date_from': u'2015-11-11', u'name': u'Linea Verde Empresa Municipal De Recursos De Corteconcepcion SL', u'title': u'Consejero'}],",
+        "name": "CANDIDO HACHA BARRANQUERO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.P.,Cortegana\n",
+        "companies": "{u'date_from': u'2015-12-03', u'name': u'Cortegana Xxi SL', u'title': u'Vicepresid.'}, {u'date_from': u'2015-12-03', u'name': u'Cortegana Xxi SL', u'title': u'Consejero'}, {u'date_from': u'2015-12-03', u'name': u'Cortegana Xxi SL', u'title': u'Vicepresid.'}, {u'date_from': u'2015-12-03', u'name': u'Cortegana Xxi SL', u'title': u'Consejero'}],",
+        "name": "JOSE ENRIQUE BORRALLO ROMERO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Cortelazor\n",
+        "companies": "{u'date_from': u'2018-04-18', u'name': u'Salud, Valor Y Al Toro SL', u'title': u'Socio'}],",
+        "name": "FRANCO JAVIER DE PABLOS CANDON"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Cumbres Mayores\n",
+        "companies": "{u'date_from': u'2009-09-29', u'name': u'Nivelastur SL', u'title': u'Adm. Unico'}],",
+        "name": "RAMON CASTAÑO GONZALEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Chucena\n",
+        "companies": "{u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}],",
+        "name": "ENCARNACION CASTELLANO SOLIS"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,AEVE,Escacena del Campo\n",
+        "companies": "{u'date_from': u'2009-01-12', u'name': u'Eulogio Servicios 2008 SL', u'title': u'Adm. Unico'}, {u'date_from': u'2011-05-20', u'name': u'Burrero Servicios Y Pinturas SL', u'title': u'Adm. Unico'}, {u'date_from': u'2014-04-02', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}{u'title': u'Consejero', u'name': u'Ituci Desarrollo SL', u'date_to': u'2016-07-14'}, {u'title': u'Presidente', u'name': u'Ituci Desarrollo SL', u'date_to': u'2016-07-14'}, {u'date_from': u'2016-07-14', u'title': u'LiqSolid', u'name': u'Ituci Desarrollo SL', u'date_to': u'2016-09-07'}],",
+        "name": "EULOGIO BURRERO SALAZAR"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Gibraleón\n",
+        "companies": "{u'title': u'Apoderado', u'name': u'Cumbres Del Chanza SA', u'date_to': u'2012-01-10'}, {u'title': u'Apoderado', u'name': u'Monterias De Berastegui SL', u'date_to': u'2014-11-19'}],",
+        "name": "MARIA LOURDES MARTIN PALANCO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Granado, El\n",
+        "companies": "{u'date_from': u'2015-09-09', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'title': u'Consejero'}{u'title': u'Consejero', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2015-09-09'}, {u'date_from': u'2011-07-14', u'title': u'Apo.Man.Soli', u'name': u'Banco Mare Nostrum SA', u'date_to': u'2017-04-26'}],",
+        "name": "MARÍA DOLORES HERRERA MEDINA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Higuera de la Sierra\n",
+        "companies": "{u'date_from': u'2011-02-18', u'name': u'Gestion Y Promociones Higuera SL', u'title': u'Adm. Solid.'}],",
+        "name": "ENRIQUE GARZON ALVAREZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Huelva\n",
+        "companies": "{u'date_from': u'2011-08-22', u'title': u'Consejero', u'name': u'Empresa Municipal De La Vivienda De Huelva SA', u'date_to': u'2014-05-22'}, {u'title': u'Consejero', u'name': u'Empresa Provincial De Vivienda, Suelo Y Equipamiento De Huelva SA', u'date_to': u'2014-08-29'}],",
+        "name": "GABRIEL CRUZ SANTANA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625420>,PP,Lepe\n",
+        "companies": "{u'date_from': u'2013-08-08', u'name': u'Agromay International Solutions SL', u'title': u'Adm. Unico'}],",
+        "name": "JUAN MANUEL GONZÁLEZ CAMACHO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Manzanilla\n",
+        "companies": "{u'date_from': u'2012-06-04', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2014-04-02', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2016-03-03', u'name': u'Bbva Pensiones Iv FP', u'title': u'Miem.Com.Ctr'}, {u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}],",
+        "name": "CRISTOBAL CARRILLO RETAMAL"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Moguer\n",
+        "companies": "{u'date_from': u'2015-11-11', u'name': u'Empresa Municipal De Gestion De Suelo Y Vivienda De Moguer SL', u'title': u'Presidente'}, {u'date_from': u'2015-11-11', u'name': u'Empresa Municipal De Gestion De Suelo Y Vivienda De Moguer SL', u'title': u'Consejero'}{u'date_from': u'2011-08-01', u'title': u'Presidente', u'name': u'Empresa Municipal De Gestion De Suelo Y Vivienda De Moguer SL', u'date_to': u'2015-11-11'}, {u'date_from': u'2011-08-01', u'title': u'Consejero', u'name': u'Empresa Municipal De Gestion De Suelo Y Vivienda De Moguer SL', u'date_to': u'2015-11-11'}],",
+        "name": "GUSTAVO CUÉLLAR CRUZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Nerva\n",
+        "companies": "{u'date_from': u'2018-05-22', u'name': u'Garza Minera SA', u'title': u'Consejero'}, {u'date_from': u'2018-05-22', u'name': u'Garza Minera SA', u'title': u'Vicepr.1'}],",
+        "name": "JOSE ANTONIO AYALA OPORTO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Niebla\n",
+        "companies": "{u'date_from': u'2012-04-20', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'title': u'Consejero'}, {u'date_from': u'2012-04-20', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'title': u'Presidente'}, {u'date_from': u'2013-08-01', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'title': u'Apo.Manc.'}, {u'date_from': u'2014-04-02', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2016-02-19', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'Consejero'}, {u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2016-06-14', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'title': u'Apo.Manc.'}, {u'date_from': u'2016-06-14', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'title': u'Presidente'}, {u'date_from': u'2016-06-14', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'title': u'Consejero'}, {u'date_from': u'2016-06-30', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'Presidente'}{u'date_from': u'2012-04-20', u'title': u'Apo.Manc.', u'name': u'Sociedad De Niebla Para La Vivienda SL', u'date_to': u'2016-06-14'}, {u'date_from': u'2016-02-19', u'title': u'Vicepresid.', u'name': u'Gestion Integral Del Agua De Huelva SA', u'date_to': u'2016-06-30'}],",
+        "name": "LAURA PICHARDO ROMERO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.P.,Palma del Condado, La\n",
+        "companies": "{u'date_from': u'2009-03-31', u'title': u'Secretario', u'name': u'Promociones Coru\\xf1esas SA', u'date_to': u'2012-07-23'}, {u'date_from': u'2009-03-31', u'title': u'Consejero', u'name': u'Promociones Coru\\xf1esas SA', u'date_to': u'2012-07-23'}],",
+        "name": "MANUEL GARCIA FELIX"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.P.,Palos de la Frontera\n",
+        "companies": "{u'title': u'Presidente', u'name': u'Micro Poligono Industrial San Jorge SA', u'date_to': u'2011-12-02'}, {u'title': u'Consejero', u'name': u'Micro Poligono Industrial San Jorge SA', u'date_to': u'2011-12-02'}, {u'date_from': u'2011-12-02', u'title': u'Presidente', u'name': u'Micro Poligono Industrial San Jorge SA', u'date_to': u'2012-06-08'}, {u'date_from': u'2011-12-02', u'title': u'Consejero', u'name': u'Micro Poligono Industrial San Jorge SA', u'date_to': u'2012-06-08'}, {u'date_from': u'2016-02-16', u'title': u'LiqUnico', u'name': u'Rabida Television SL', u'date_to': u'2017-01-05'}],",
+        "name": "CARMELO ROMERO HERNÁNDEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536256f0>,PSOE-A,Puebla de Guzmán\n",
+        "companies": "{u'date_from': u'2009-11-23', u'name': u'Campo Baldio De Puebla De Guzman SL', u'title': u'R.L.C.Perma.'}, {u'date_from': u'2010-06-30', u'name': u'Inversiones Castellgali SL', u'title': u'LIQUIDADOR'}, {u'date_from': u'2016-08-19', u'name': u'Campo Baldio De Puebla De Guzman SL', u'title': u'Consejero'}{u'title': u'ADM.SOLIDAR.', u'name': u'Inversiones Castellgali SL', u'date_to': u'2010-06-30'}, {u'date_from': u'2009-11-23', u'title': u'Consejero', u'name': u'Campo Baldio De Puebla De Guzman SL', u'date_to': u'2012-09-21'}, {u'date_from': u'2012-09-21', u'title': u'Consejero', u'name': u'Campo Baldio De Puebla De Guzman SL', u'date_to': u'2016-08-19'}],",
+        "name": "ANTONIO BELTRAN MORA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Punta Umbría\n",
+        "companies": "{u'title': u'Consejero', u'name': u'Sociedad Municipal De Gestion Del Suelo De Punta Umbria SL', u'date_to': u'2011-11-25'}, {u'title': u'Consejero', u'name': u'Sociedad Municipal Salinas Del Astur SL', u'date_to': u'2011-12-14'}, {u'date_from': u'2011-12-14', u'title': u'Consejero', u'name': u'Sociedad Municipal Salinas Del Astur SL', u'date_to': u'2017-10-31'}],",
+        "name": "AURORA CORONADA AGUEDO BORRERO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Rociana del Condado\n",
+        "companies": "{u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}],",
+        "name": "DIEGO PICHARDO RIVERO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa353625420>,PARTIDO ANDALUCISTA,Rosal de la Frontera\n",
+        "companies": "{u'date_from': u'2014-01-14', u'name': u'Ti Emporda SL', u'title': u'Adm. Unico'}, {u'date_from': u'2016-01-19', u'name': u'Lauxesmarket SL', u'title': u'Adm. Mancom.'}{u'date_from': u'2009-03-24', u'title': u'Adm. Solid.', u'name': u'Investigacion Y Desarrollo De Software Empresarial SL', u'date_to': u'2011-02-22'}, {u'date_from': u'2014-04-11', u'title': u'Adm. Mancom.', u'name': u'Lauxesmarket SL', u'date_to': u'2015-12-21'}, {u'date_from': u'2015-12-21', u'title': u'Adm. Unico', u'name': u'Lauxesmarket SL', u'date_to': u'2016-01-19'}],",
+        "name": "ANTONIO CARLOS VAZQUEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,San Bartolomé de la Torre\n",
+        "companies": "{u'date_from': u'2009-07-29', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Huelva, Jerez Y Sevilla ', u'title': u'Miem.Com.Ctr'}, {u'date_from': u'2014-09-10', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'Apoderado'}, {u'date_from': u'2014-09-10', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'P.Com.Ejec.'}, {u'date_from': u'2014-09-10', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'Dir. General'}, {u'date_from': u'2014-09-10', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'Miem.COM.EIC'}, {u'date_from': u'2014-09-10', u'name': u'Gestion Integral Del Agua De Huelva SA', u'title': u'M.Comit.Aud'}{u'title': u'Presidente', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2011-09-30'}, {u'title': u'Consejero', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2011-09-30'}, {u'title': u'Miem.Com.Ctr', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Guadalajara Huelva, Jerez Y Sevilla ', u'date_to': u'2013-08-07'}, {u'date_from': u'2012-10-02', u'title': u'Vicepr.1', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Guadalajara Huelva, Jerez Y Sevilla ', u'date_to': u'2013-08-20'}, {u'date_from': u'2012-10-02', u'title': u'Consejero', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Guadalajara Huelva, Jerez Y Sevilla ', u'date_to': u'2013-08-20'}, {u'date_from': u'2011-09-30', u'title': u'Presidente', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2014-02-19'}, {u'date_from': u'2011-09-30', u'title': u'Consejero', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2014-02-19'}],",
+        "name": "MANUEL JESUS DOMINGUEZ LIMON"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PP,Sanlúcar de Guadiana\n",
+        "companies": "{u'date_from': u'2009-08-05', u'title': u'ADM.SOLIDAR.', u'name': u'Tresmesu SL', u'date_to': u'2010-03-12'}],",
+        "name": "JOSÉ MARÍA PÉREZ DÍAZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,San Silvestre de Guzmán\n",
+        "companies": "{u'date_from': u'2014-02-19', u'title': u'Presidente', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2015-09-09'}, {u'date_from': u'2014-02-19', u'title': u'Consejero', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'date_to': u'2015-09-09'}],",
+        "name": "JOSEFA MAGRO GONZÁLEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Santa Ana la Real\n",
+        "companies": "{u'date_from': u'2015-05-13', u'name': u'Granja Escuela De Turismo Rural Santa Ana SL', u'title': u'Presidente'}, {u'date_from': u'2015-05-13', u'name': u'Granja Escuela De Turismo Rural Santa Ana SL', u'title': u'Consejero'}{u'title': u'Presidente', u'name': u'Granja Escuela De Turismo Rural Santa Ana SL', u'date_to': u'2009-06-08'}, {u'title': u'Consejero', u'name': u'Granja Escuela De Turismo Rural Santa Ana SL', u'date_to': u'2009-06-08'}, {u'date_from': u'2009-06-08', u'title': u'Presidente', u'name': u'Granja Escuela De Turismo Rural Santa Ana SL', u'date_to': u'2015-05-13'}, {u'date_from': u'2009-06-08', u'title': u'Consejero', u'name': u'Granja Escuela De Turismo Rural Santa Ana SL', u'date_to': u'2015-05-13'}],",
+        "name": "JOSE ANTONIO RAMOS BLAZQUEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Santa Bárbara de Casa\n",
+        "companies": "{u'title': u'Consejero', u'name': u'Empresa Provincial De Vivienda, Suelo Y Equipamiento De Huelva SA', u'date_to': u'2014-08-29'}],",
+        "name": "GONZALA GOMEZ SANTOS"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,P.S.O.E.-A,Valdelarco\n",
+        "companies": "{u'date_from': u'2012-04-12', u'name': u'General De Edificios Y Solares SL', u'title': u'Apoderado'}],",
+        "name": "RAFAEL LOPEZ OLIVERA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PP,Valverde del Camino\n",
+        "companies": "{u'date_from': u'2017-07-20', u'name': u'Radio Valverde Informacion SL', u'title': u'Consejero'}{u'date_from': u'2011-11-25', u'title': u'Consejero', u'name': u'Gestora De Infraestructuras De Valverde Del Camino SA', u'date_to': u'2013-06-26'}],",
+        "name": "MANUEL CAYUELA MORA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PP,Villablanca\n",
+        "companies": "{u'date_from': u'2015-09-09', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'title': u'Consejero'}],",
+        "name": "JOSÉ MANUEL ZAMORA DE LA CRUZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Villalba del Alcor\n",
+        "companies": "{u'date_from': u'2013-06-05', u'name': u'Ruraldeporte92 SL', u'title': u'Adm. Unico'}],",
+        "name": "SEBASTIAN FERNANDEZ PEREZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Villanueva de los Castillejos\n",
+        "companies": "{u'date_from': u'2015-09-09', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'title': u'Presidente'}, {u'date_from': u'2015-09-09', u'name': u'Empresa De Diversificacion Industrial Del Andevalo SL', u'title': u'Consejero'}],",
+        "name": "DOLORES RUIZ BELTRÁN"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,PSOE-A,Villarrasa\n",
+        "companies": "{u'date_from': u'2012-06-04', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2014-04-02', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}, {u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Vicepresid.'}, {u'date_from': u'2016-03-11', u'name': u'Desarrollo Del Condado SA', u'title': u'Consejero'}{u'date_from': u'2014-08-06', u'title': u'LiqUnico', u'name': u'Dehesa Boyal De Villarrasa SL', u'date_to': u'2014-08-06'}],",
+        "name": "ILDEFONSO MARTIN BARRANCA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fa3536254b0>,IULV-CA,Zalamea la Real\n",
+        "companies": "{u'date_from': u'2014-09-10', u'title': u'Consejero', u'name': u'Gestion Integral Del Agua De Huelva SA', u'date_to': u'2016-02-19'}],",
+        "name": "MARCOS GARCIA NUÑEZ"
+    }
+]

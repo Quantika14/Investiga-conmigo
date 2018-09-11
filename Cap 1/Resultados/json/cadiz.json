@@ -1,0 +1,192 @@
+[
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Alcalá de los Gazules\n",
+        "companies": "{u'date_from': u'2015-12-23', u'name': u'Empresa Provincial De Informacion De Cadiz SA', u'title': u'Consejero'}, {u'date_from': u'2018-06-21', u'name': u'Empresa Municipal De Fomento De Alcala De Los Gazules SA', u'title': u'Presidente'}, {u'date_from': u'2018-06-21', u'name': u'Empresa Municipal De Fomento De Alcala De Los Gazules SA', u'title': u'Consejero'}{u'date_from': u'2013-04-09', u'title': u'Consejero', u'name': u'Turismo Gaditano SA', u'date_to': u'2015-12-02'}, {u'date_from': u'2013-06-03', u'title': u'Consejero', u'name': u'Empresa Provincial De Informacion De Cadiz SA', u'date_to': u'2015-12-23'}],",
+        "name": "JAVIER PIZARRO RUIZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Alcalá del Valle\n",
+        "companies": "{u'date_from': u'2018-06-21', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Consejero'}{u'date_from': u'2013-02-04', u'title': u'Presidente', u'name': u'Basuras Sierra De Cadiz SA', u'date_to': u'2015-03-23'}, {u'date_from': u'2013-02-04', u'title': u'Consejero', u'name': u'Basuras Sierra De Cadiz SA', u'date_to': u'2018-06-21'}],",
+        "name": "DOLORES CABALLERO FLORES"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,PSOE-A,Algar\n",
+        "companies": "{u'date_from': u'2018-06-21', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Consejero'}{u'date_from': u'2013-02-04', u'title': u'Consejero', u'name': u'Basuras Sierra De Cadiz SA', u'date_to': u'2018-06-21'}],",
+        "name": "MARIA JOSE VILLAGRAN RICHARTE"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.P.,Algeciras\n",
+        "companies": "{u'date_from': u'2013-06-24', u'name': u'Medios De Comunicacion Del Ayuntamiento De Algeciras SA', u'title': u'Presidente'}, {u'date_from': u'2013-06-24', u'name': u'Medios De Comunicacion Del Ayuntamiento De Algeciras SA', u'title': u'Consejero'}, {u'date_from': u'2015-06-03', u'name': u'Empresa Municipal De Suelo Y Vivienda Algeciras SA', u'title': u'Consejero'}, {u'date_from': u'2016-02-25', u'name': u'Actividades De Limpieza Y Gestion SA', u'title': u'Consejero'}, {u'date_from': u'2018-01-25', u'name': u'Mercalgeciras SA', u'title': u'Consejero'}, {u'date_from': u'2018-01-25', u'name': u'Mercalgeciras SA', u'title': u'Presidente'}, {u'date_from': u'2018-02-26', u'name': u'Empresa Municipal De Aguas De Algeciras SA', u'title': u'Presidente'}, {u'date_from': u'2018-02-26', u'name': u'Empresa Municipal De Aguas De Algeciras SA', u'title': u'Consejero'}, {u'date_from': u'2018-02-26', u'name': u'Empresa Municipal De Aguas De Algeciras SA', u'title': u'Miem.Com.Ej.'}{u'title': u'Consejero', u'name': u'Empresa Municipal De Suelo Y Vivienda Algeciras SA', u'date_to': u'2015-06-03'}, {u'date_from': u'2011-12-30', u'title': u'Consejero', u'name': u'Actividades De Limpieza Y Gestion SA', u'date_to': u'2016-02-25'}, {u'date_from': u'2012-02-14', u'title': u'Presidente', u'name': u'Mercalgeciras SA', u'date_to': u'2018-01-25'}, {u'date_from': u'2012-02-14', u'title': u'Consejero', u'name': u'Mercalgeciras SA', u'date_to': u'2018-01-25'}, {u'date_from': u'2012-05-09', u'title': u'Presidente', u'name': u'Empresa Municipal De Aguas De Algeciras SA', u'date_to': u'2018-02-26'}, {u'date_from': u'2012-05-09', u'title': u'Consejero', u'name': u'Empresa Municipal De Aguas De Algeciras SA', u'date_to': u'2018-02-26'}],",
+        "name": "JOSÉ IGNACIO LANDALUCE CALLEJA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,PSOE-A,Algodonales\n",
+        "companies": "{u'date_from': u'2013-02-21', u'name': u'Suministros Industriales Bilbainos SL', u'title': u'Apoderado'}, {u'date_from': u'2015-07-13', u'name': u'Fondoandalsur FP', u'title': u'Miem.Com.Ctr'}, {u'date_from': u'2017-03-31', u'name': u'Fondoandalsur FP', u'title': u'Miem.Com.Ctr'}, {u'date_from': u'2017-11-07', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}{u'title': u'Consejero', u'name': u'Guadalmagro SA', u'date_to': u'2010-01-27'}, {u'date_from': u'2011-04-25', u'title': u'Miem.Com.Ctr', u'name': u'Fondoandalsur FP', u'date_to': u'2018-02-12'}],",
+        "name": "JOSE MARIA GOMEZ MARTINEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.A.,Barbate\n",
+        "companies": "{u'date_from': u'2012-06-06', u'name': u'Piscinas La Janda SL', u'title': u'Adm. Unico'}, {u'date_from': u'2017-03-27', u'name': u'Innovacion Y Desarrollo De Barbate SL', u'title': u'Presidente'}, {u'date_from': u'2017-03-27', u'name': u'Innovacion Y Desarrollo De Barbate SL', u'title': u'Consejero'}],",
+        "name": "MIGUEL FRANCISCO MOLINA CHAMORRO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944540>,PA,Barrios, Los\n",
+        "companies": "{u'date_from': u'2012-03-09', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'title': u'Consejero'}{u'date_from': u'2011-11-11', u'title': u'Cons.Del.Man', u'name': u'Iniciativas Eolicas Los Barrios SL', u'date_to': u'2013-11-08'}, {u'date_from': u'2011-11-11', u'title': u'Presidente', u'name': u'Iniciativas Eolicas Los Barrios SL', u'date_to': u'2013-11-08'}, {u'date_from': u'2011-11-11', u'title': u'Consejero', u'name': u'Iniciativas Eolicas Los Barrios SL', u'date_to': u'2013-11-08'}],",
+        "name": "JORGE ROMERO SALAZAR"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Bornos\n",
+        "companies": "{u'date_from': u'2016-08-17', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Consejero'}],",
+        "name": "HUGO PALOMARES BELTRAN"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Bosque, El\n",
+        "companies": "{u'date_from': u'2010-01-29', u'name': u'Mantenimiento De Comunicaciones Electronicas En Sistemas De Seguridad SL', u'title': u'Adm. Solid.'}{u'title': u'Adm. Unico', u'name': u'Famorga & Future SL', u'date_to': u'2009-02-11'}, {u'date_from': u'2009-02-11', u'title': u'Adm. Solid.', u'name': u'Famorga & Future SL', u'date_to': u'2015-02-10'}],",
+        "name": "PILAR GARCIA CARRASCO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,POR CÁDIZ SI SE PUEDE,Cádiz\n",
+        "companies": "{u'date_from': u'2009-12-23', u'name': u'Axa Aurora Vida, Sociedad Anonima De Seguros Y Reaseguros ', u'title': u'Apo.Sol.'}, {u'date_from': u'2015-03-10', u'name': u'Axa Aurora Vida, Sociedad Anonima De Seguros Y Reaseguros ', u'title': u'Apoderado'}, {u'date_from': u'2015-03-31', u'name': u'Axa Seguros Generales Sociedad Anonima De Seguros Y Reaseguros ', u'title': u'Apo.Sol.'}{u'title': u'Miem.Com.Ctr', u'name': u'Aurofondo Prudente FP', u'date_to': u'2010-09-23'}, {u'date_from': u'2009-01-23', u'title': u'Secr.Com.Ctr', u'name': u'Aurofondo Prudente FP', u'date_to': u'2010-09-23'}, {u'title': u'Apoderado', u'name': u'Axa Ibercapital Agencia De Valores SA', u'date_to': u'2010-10-25'}, {u'title': u'APODERADO', u'name': u'Axa Vida Sociedad Anonima De Seguros Y Reaseguros ', u'date_to': u'2015-08-03'}, {u'title': u'APODERADO', u'name': u'Axa Pensiones Sa Entidad Gestora De Fondos De Pensiones ', u'date_to': u'2015-08-07'}, {u'date_from': u'2015-03-16', u'title': u'APODERAD.SOL', u'name': u'Axa Vida Sociedad Anonima De Seguros Y Reaseguros ', u'date_to': u'2018-03-07'}],",
+        "name": "JOSE MARIA GONZALEZ SANTOS"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Castellar de la Frontera\n",
+        "companies": "{u'date_from': u'2012-03-09', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'title': u'Consejero'}],",
+        "name": "JUAN CASANOVA CORREA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Conil de la Frontera\n",
+        "companies": "{u'date_from': u'2016-06-08', u'name': u'Roche Sociedad Anonima Municipal ', u'title': u'Presidente'}, {u'date_from': u'2016-06-08', u'name': u'Roche Sociedad Anonima Municipal ', u'title': u'Consejero'}{u'date_from': u'2013-06-07', u'title': u'Presidente', u'name': u'Roche Sociedad Anonima Municipal ', u'date_to': u'2016-06-08'}, {u'date_from': u'2013-06-07', u'title': u'Consejero', u'name': u'Roche Sociedad Anonima Municipal ', u'date_to': u'2016-06-08'}, {u'date_from': u'2013-06-07', u'title': u'Con.Delegado', u'name': u'Roche Sociedad Anonima Municipal ', u'date_to': u'2016-06-08'}],",
+        "name": "JUAN MANUEL BERMÚDEZ ESCÁMEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Chiclana de la Frontera\n",
+        "companies": "{u'date_from': u'2015-08-20', u'name': u'Emsisa Empresa Municipal SA', u'title': u'Presidente'}, {u'date_from': u'2015-08-20', u'name': u'Emsisa Empresa Municipal SA', u'title': u'Consejero'}, {u'date_from': u'2015-08-26', u'name': u'Chiclana Natural SA', u'title': u'Presidente'}, {u'date_from': u'2015-08-26', u'name': u'Chiclana Natural SA', u'title': u'Consejero'}, {u'date_from': u'2015-12-23', u'name': u'Empresa Provincial De Informacion De Cadiz SA', u'title': u'Consejero'}{u'date_from': u'2009-02-16', u'title': u'Presidente', u'name': u'Emsisa Empresa Municipal SA', u'date_to': u'2011-10-18'}, {u'date_from': u'2009-02-16', u'title': u'Consejero', u'name': u'Emsisa Empresa Municipal SA', u'date_to': u'2011-10-18'}, {u'date_from': u'2009-03-12', u'title': u'Presidente', u'name': u'Chiclana Natural SA', u'date_to': u'2011-12-12'}, {u'date_from': u'2009-03-12', u'title': u'Consejero', u'name': u'Chiclana Natural SA', u'date_to': u'2011-12-12'}],",
+        "name": "JOSE MARÍA ROMÁN GUERRERO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Espera\n",
+        "companies": "{u'date_from': u'2013-04-01', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'M.Com.Ejec'}, {u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}, {u'date_from': u'2018-06-21', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Consejero'}{u'date_from': u'2011-10-25', u'title': u'Consejero', u'name': u'Turismo Gaditano SA', u'date_to': u'2015-12-02'}, {u'date_from': u'2016-08-19', u'title': u'Cons.Del.Man', u'name': u'Basuras Sierra De Cadiz SA', u'date_to': u'2018-06-21'}, {u'date_from': u'2013-02-04', u'title': u'Consejero', u'name': u'Basuras Sierra De Cadiz SA', u'date_to': u'2018-06-21'}],",
+        "name": "PEDRO ROMERO VALVERDE"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Gastor, El\n",
+        "companies": "{u'date_from': u'2012-02-10', u'name': u'Tendencia A Ganar SL', u'title': u'Adm. Unico'}, {u'date_from': u'2013-03-12', u'name': u'Ceriluz SL', u'title': u'Adm. Solid.'}{u'title': u'Adm. Unico', u'name': u'Ceriluz SL', u'date_to': u'2013-03-12'}, {u'title': u'Liquidador', u'name': u'Mundo Grafico Gra&Mar SL', u'date_to': u'2013-06-12'}, {u'date_from': u'2013-06-12', u'title': u'Liquidador', u'name': u'Mundo Grafico Gra&Mar SL', u'date_to': u'2013-06-12'}],",
+        "name": "MARIA ISABEL MORENO FERNANDEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Grazalema\n",
+        "companies": "{u'date_from': u'2016-08-17', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Consejero'}, {u'date_from': u'2018-08-06', u'name': u'Complejo Recreativo Los Alamillos SA', u'title': u'Presidente'}, {u'date_from': u'2018-08-06', u'name': u'Complejo Recreativo Los Alamillos SA', u'title': u'Consejero'}{u'date_from': u'2013-02-04', u'title': u'Consejero', u'name': u'Complejo Recreativo Los Alamillos SA', u'date_to': u'2018-05-16'}],",
+        "name": "CARLOS JAVIER GARCIA RAMIREZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Jimena de la Frontera\n",
+        "companies": "{u'title': u'Adm. Unico', u'name': u'Gomez Lainz SRLP', u'date_to': u'2010-06-14'}],",
+        "name": "FRANCISCO JOSE GOMEZ PEREZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,LL100X100,Línea de la Concepción, La\n",
+        "companies": "{u'date_from': u'2017-01-25', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'title': u'Consejero'}],",
+        "name": "JOSE JUAN FRANCO RODRIGUEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Medina-Sidonia\n",
+        "companies": "{u'date_from': u'2016-12-05', u'name': u'Medina Global SL', u'title': u'Consejero'}, {u'date_from': u'2016-12-05', u'name': u'Medina Global SL', u'title': u'Presidente'}{u'date_from': u'2012-07-04', u'title': u'Presidente', u'name': u'Promocion Desarrollo Y Gestion Municipal SA', u'date_to': u'2014-01-20'}, {u'date_from': u'2012-07-04', u'title': u'Consejero', u'name': u'Promocion Desarrollo Y Gestion Municipal SA', u'date_to': u'2014-01-20'}, {u'date_from': u'2012-05-08', u'title': u'Consejero', u'name': u'Aguas De Medina Sidonia SL', u'date_to': u'2014-01-20'}, {u'date_from': u'2012-05-08', u'title': u'Presidente', u'name': u'Aguas De Medina Sidonia SL', u'date_to': u'2014-01-20'}, {u'date_from': u'2014-01-20', u'title': u'Consejero', u'name': u'Medina Global SL', u'date_to': u'2016-12-05'}, {u'date_from': u'2014-01-20', u'title': u'Presidente', u'name': u'Medina Global SL', u'date_to': u'2016-12-05'}],",
+        "name": "MANUEL FERNANDO MACIAS HERRERA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Olvera\n",
+        "companies": "{u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}],",
+        "name": "FRANCISCO PARRAGA RODRIGUEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Paterna de Rivera\n",
+        "companies": "{u'date_from': u'2010-05-07', u'name': u'Sociedad Municipal Mixta De Gestion Del Suelo Y Desarrollo Local De Paterna De Rivera SA', u'title': u'Consejero'}],",
+        "name": "ALFONSO CARAVACA MORALES"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.P.,Prado del Rey\n",
+        "companies": "{u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}{u'date_from': u'2012-10-02', u'title': u'Consejero', u'name': u'Aguas De La Sierra De Cadiz SA', u'date_to': u'2016-06-09'}, {u'date_from': u'2012-08-06', u'title': u'Presidente', u'name': u'Suipra SA', u'date_to': u'2018-08-02'}, {u'date_from': u'2012-08-06', u'title': u'Consejero', u'name': u'Suipra SA', u'date_to': u'2018-08-02'}],",
+        "name": "JOSE RAMON BECERRA ORELLANA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,PSOE-A,Puerto de Santa María, El\n",
+        "companies": "{u'date_from': u'2016-06-06', u'name': u'Impulsa Aparca SL', u'title': u'Consejero'}, {u'date_from': u'2016-06-06', u'name': u'Impulsa Aparca SL', u'title': u'Presidente'}{u'title': u'Consejero', u'name': u'Impulsa El Puerto SRL', u'date_to': u'2010-08-26'}],",
+        "name": "JAVIER DAVID DE LA ENCINA ORTEGA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe9709444b0>,SISEPUEDEPR,Puerto Real\n",
+        "companies": "{u'date_from': u'2016-01-14', u'name': u'Electricidad De Puerto Real SA', u'title': u'Presidente'}, {u'date_from': u'2016-01-14', u'name': u'Electricidad De Puerto Real SA', u'title': u'Consejero'}, {u'date_from': u'2016-01-14', u'name': u'Electricidad De Puerto Real SA', u'title': u'Cons.Del.Sol'}, {u'date_from': u'2016-01-14', u'name': u'Epresa Energia SA', u'title': u'Presidente'}, {u'date_from': u'2016-01-14', u'name': u'Epresa Energia SA', u'title': u'Consejero'}, {u'date_from': u'2016-01-14', u'name': u'Epresa Energia SA', u'title': u'Cons.Del.Sol'}, {u'date_from': u'2016-05-20', u'name': u'Grupo Energetico De Puerto Real SA', u'title': u'Presidente'}, {u'date_from': u'2016-05-20', u'name': u'Grupo Energetico De Puerto Real SA', u'title': u'Consejero'}, {u'date_from': u'2018-03-13', u'name': u'Empresa Publica De Suelo Y Viviendas De Puerto Real SA', u'title': u'Presidente'}, {u'date_from': u'2018-03-13', u'name': u'Empresa Publica De Suelo Y Viviendas De Puerto Real SA', u'title': u'Consejero'}],",
+        "name": "ANTONIO JAVIER ROMERO ALFARO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E-A,Puerto Serrano\n",
+        "companies": "{u'date_from': u'2016-06-09', u'title': u'Consejero', u'name': u'Aguas De La Sierra De Cadiz SA', u'date_to': u'2017-11-07'}],",
+        "name": "MIGUEL ANGEL CARRERO NIETO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944540>,PSOE-A,Rota\n",
+        "companies": "{u'date_from': u'2015-10-07', u'name': u'Aguas De Rota Empresa Municipal SA', u'title': u'Presidente'}, {u'date_from': u'2015-10-07', u'name': u'Aguas De Rota Empresa Municipal SA', u'title': u'Consejero'}, {u'date_from': u'2015-11-24', u'name': u'Centro Especial De Empleo Torre De La Merced SL', u'title': u'Presidente'}, {u'date_from': u'2015-11-24', u'name': u'Centro Especial De Empleo Torre De La Merced SL', u'title': u'Consejero'}, {u'date_from': u'2016-04-07', u'name': u'Sociedad Urbanistica De Rota SA', u'title': u'LiquiSoli'}{u'date_from': u'2012-02-23', u'title': u'Consejero', u'name': u'Aguas De Rota Empresa Municipal SA', u'date_to': u'2014-03-26'}, {u'date_from': u'2014-02-19', u'title': u'Consejero', u'name': u'Sociedad Urbanistica De Rota SA', u'date_to': u'2014-06-05'}, {u'title': u'LiquiSoli', u'name': u'Sociedad Municipal De Desarrollo Economico De Rota SA', u'date_to': u'2016-03-01'}, {u'date_from': u'2015-10-26', u'title': u'Presidente', u'name': u'Sociedad Municipal De Desarrollo Economico De Rota SA', u'date_to': u'2016-03-01'}, {u'date_from': u'2015-10-26', u'title': u'Consejero', u'name': u'Sociedad Municipal De Desarrollo Economico De Rota SA', u'date_to': u'2016-03-01'}, {u'date_from': u'2016-03-01', u'title': u'LiquiSoli', u'name': u'Sociedad Municipal De Desarrollo Economico De Rota SA', u'date_to': u'2016-03-01'}, {u'date_from': u'2015-10-22', u'title': u'Presidente', u'name': u'Sociedad Urbanistica De Rota SA', u'date_to': u'2016-04-07'}, {u'date_from': u'2015-10-22', u'title': u'Consejero', u'name': u'Sociedad Urbanistica De Rota SA', u'date_to': u'2016-04-07'}],",
+        "name": "JOSE JAVIER RUIZ ARANA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe9709446f0>,P.S.O.E.-A,Sanlúcar de Barrameda\n",
+        "companies": "{u'date_from': u'2014-01-14', u'name': u'Elicodesa SA', u'title': u'Presidente'}, {u'date_from': u'2014-01-14', u'name': u'Elicodesa SA', u'title': u'Consejero'}, {u'date_from': u'2015-10-13', u'name': u'Empresa Municipal De Residencia De Mayores De Sanlucar SA', u'title': u'Presidente'}, {u'date_from': u'2015-10-13', u'name': u'Empresa Municipal De Residencia De Mayores De Sanlucar SA', u'title': u'Consejero'}, {u'date_from': u'2015-11-03', u'name': u'Elicodesa SA', u'title': u'Presidente'}, {u'date_from': u'2015-11-03', u'name': u'Elicodesa SA', u'title': u'Consejero'}, {u'date_from': u'2015-11-03', u'name': u'Emulisan SA', u'title': u'Presidente'}, {u'date_from': u'2015-11-03', u'name': u'Emulisan SA', u'title': u'Consejero'}, {u'date_from': u'2015-12-17', u'name': u'Tanatorio Y Cementerio De Sanlucar SL', u'title': u'Presidente'}, {u'date_from': u'2015-12-17', u'name': u'Tanatorio Y Cementerio De Sanlucar SL', u'title': u'Consejero'}, {u'date_from': u'2016-03-08', u'name': u'T D T L Costa Noroeste SL', u'title': u'Presidente'}, {u'date_from': u'2016-03-08', u'name': u'T D T L Costa Noroeste SL', u'title': u'Consejero'}, {u'date_from': u'2016-04-19', u'name': u'Empresa De Recaudacion Y Servicios De Sanlucar De Barrameda SA', u'title': u'Presidente'}, {u'date_from': u'2016-04-19', u'name': u'Empresa De Recaudacion Y Servicios De Sanlucar De Barrameda SA', u'title': u'Consejero'}, {u'date_from': u'2018-07-23', u'name': u'Transportes Urbanos De Sanlucar SA', u'title': u'Consejero'}, {u'date_from': u'2018-07-23', u'name': u'Transportes Urbanos De Sanlucar SA', u'title': u'Presidente'}{u'date_from': u'2012-06-22', u'title': u'Vicepresid.', u'name': u'Elicodesa SA', u'date_to': u'2013-11-07'}, {u'date_from': u'2012-06-22', u'title': u'Con.Delegado', u'name': u'Elicodesa SA', u'date_to': u'2013-11-07'}, {u'date_from': u'2012-06-22', u'title': u'Vicepresid.', u'name': u'Emulisan SA', u'date_to': u'2014-01-14'}, {u'date_from': u'2012-06-22', u'title': u'Consejero', u'name': u'Emulisan SA', u'date_to': u'2014-01-14'}, {u'date_from': u'2012-06-22', u'title': u'Con.Delegado', u'name': u'Emulisan SA', u'date_to': u'2014-01-14'}, {u'date_from': u'2014-01-14', u'title': u'Vicepresid.', u'name': u'Emulisan SA', u'date_to': u'2014-01-30'}, {u'date_from': u'2013-11-07', u'title': u'Presidente', u'name': u'Empresa Municipal De Residencia De Mayores De Sanlucar SA', u'date_to': u'2015-10-13'}, {u'date_from': u'2013-11-07', u'title': u'Consejero', u'name': u'Empresa Municipal De Residencia De Mayores De Sanlucar SA', u'date_to': u'2015-10-13'}, {u'date_from': u'2013-11-07', u'title': u'Presidente', u'name': u'Elicodesa SA', u'date_to': u'2015-11-03'}, {u'date_from': u'2012-06-22', u'title': u'Consejero', u'name': u'Elicodesa SA', u'date_to': u'2015-11-03'}, {u'date_from': u'2014-01-30', u'title': u'Presidente', u'name': u'Emulisan SA', u'date_to': u'2015-11-03'}, {u'date_from': u'2014-01-14', u'title': u'Consejero', u'name': u'Emulisan SA', u'date_to': u'2015-11-03'}, {u'date_from': u'2014-05-29', u'title': u'Presidente', u'name': u'Tanatorio Y Cementerio De Sanlucar SL', u'date_to': u'2015-12-17'}, {u'date_from': u'2014-05-29', u'title': u'Consejero', u'name': u'Tanatorio Y Cementerio De Sanlucar SL', u'date_to': u'2015-12-17'}, {u'date_from': u'2014-06-11', u'title': u'Presidente', u'name': u'T D T L Costa Noroeste SL', u'date_to': u'2016-03-08'}, {u'date_from': u'2014-06-11', u'title': u'Consejero', u'name': u'T D T L Costa Noroeste SL', u'date_to': u'2016-03-08'}, {u'date_from': u'2014-03-26', u'title': u'Presidente', u'name': u'Empresa De Recaudacion Y Servicios De Sanlucar De Barrameda SA', u'date_to': u'2016-04-19'}, {u'date_from': u'2014-03-26', u'title': u'Consejero', u'name': u'Empresa De Recaudacion Y Servicios De Sanlucar De Barrameda SA', u'date_to': u'2016-04-19'}, {u'date_from': u'2013-12-04', u'title': u'Consejero', u'name': u'Transportes Urbanos De Sanlucar SA', u'date_to': u'2018-07-23'}, {u'date_from': u'2013-12-04', u'title': u'Presidente', u'name': u'Transportes Urbanos De Sanlucar SA', u'date_to': u'2018-07-23'}],",
+        "name": "VICTOR MORA ESCOBAR"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944930>,PSOE-A,San Roque\n",
+        "companies": "{u'date_from': u'2012-03-09', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'title': u'Consejero'}, {u'date_from': u'2013-08-16', u'name': u'Empresa Multimedia De San Roque SA', u'title': u'Apo.Manc.'}, {u'date_from': u'2013-10-21', u'name': u'Plantas Flores Y Jardineria En General Amanecer SL', u'title': u'Cons.Del.Man'}, {u'date_from': u'2013-10-21', u'name': u'Plantas Flores Y Jardineria En General Amanecer SL', u'title': u'Presidente'}, {u'date_from': u'2013-10-21', u'name': u'Plantas Flores Y Jardineria En General Amanecer SL', u'title': u'Consejero'}, {u'date_from': u'2015-12-23', u'name': u'Empresa Provincial De Informacion De Cadiz SA', u'title': u'Consejero'}, {u'date_from': u'2016-04-20', u'name': u'Empresa Multimedia De San Roque SA', u'title': u'Apo.Manc.'}, {u'date_from': u'2016-10-10', u'name': u'Empresa De Servicios Medio Ambiente Y Desarrollo Sostenido De San Roque SA', u'title': u'Cons.Del.Man'}, {u'date_from': u'2016-10-10', u'name': u'Empresa De Servicios Medio Ambiente Y Desarrollo Sostenido De San Roque SA', u'title': u'Presidente'}, {u'date_from': u'2016-10-10', u'name': u'Empresa De Servicios Medio Ambiente Y Desarrollo Sostenido De San Roque SA', u'title': u'Consejero'}, {u'date_from': u'2016-10-10', u'name': u'Empresa Municipal Del Suelo Y De La Vivienda De San Roque SA', u'title': u'Cons.Del.Man'}, {u'date_from': u'2016-10-10', u'name': u'Empresa Municipal Del Suelo Y De La Vivienda De San Roque SA', u'title': u'Presidente'}, {u'date_from': u'2016-10-10', u'name': u'Empresa Municipal Del Suelo Y De La Vivienda De San Roque SA', u'title': u'Consejero'}, {u'date_from': u'2017-01-03', u'name': u'Empresa Multimedia De San Roque SA', u'title': u'Cons.Del.Man'}, {u'date_from': u'2017-01-03', u'name': u'Empresa Multimedia De San Roque SA', u'title': u'Presidente'}, {u'date_from': u'2017-01-03', u'name': u'Empresa Multimedia De San Roque SA', u'title': u'Consejero'}{u'title': u'Cons.Del.Man', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'date_to': u'2010-04-27'}, {u'title': u'Consejero', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'date_to': u'2010-04-27'}, {u'title': u'Consejero', u'name': u'Empresa Multimedia De San Roque SA', u'date_to': u'2010-09-27'}, {u'date_from': u'2013-08-16', u'title': u'Cons.Del.Man', u'name': u'Empresa Multimedia De San Roque SA', u'date_to': u'2016-04-20'}, {u'date_from': u'2015-02-16', u'title': u'Cons.Del.Man', u'name': u'Empresa De Servicios Medio Ambiente Y Desarrollo Sostenido De San Roque SA', u'date_to': u'2016-10-10'}, {u'date_from': u'2015-02-16', u'title': u'Presidente', u'name': u'Empresa De Servicios Medio Ambiente Y Desarrollo Sostenido De San Roque SA', u'date_to': u'2016-10-10'}, {u'date_from': u'2015-02-16', u'title': u'Consejero', u'name': u'Empresa De Servicios Medio Ambiente Y Desarrollo Sostenido De San Roque SA', u'date_to': u'2016-10-10'}, {u'date_from': u'2011-10-28', u'title': u'Cons.Del.Man', u'name': u'Empresa Municipal Del Suelo Y De La Vivienda De San Roque SA', u'date_to': u'2016-10-10'}, {u'date_from': u'2011-10-28', u'title': u'Presidente', u'name': u'Empresa Municipal Del Suelo Y De La Vivienda De San Roque SA', u'date_to': u'2016-10-10'}, {u'date_from': u'2011-10-28', u'title': u'Consejero', u'name': u'Empresa Municipal Del Suelo Y De La Vivienda De San Roque SA', u'date_to': u'2016-10-10'}, {u'date_from': u'2016-04-20', u'title': u'Cons.Del.Man', u'name': u'Empresa Multimedia De San Roque SA', u'date_to': u'2017-01-03'}, {u'date_from': u'2013-08-16', u'title': u'Presidente', u'name': u'Empresa Multimedia De San Roque SA', u'date_to': u'2017-01-03'}, {u'date_from': u'2013-08-16', u'title': u'Consejero', u'name': u'Empresa Multimedia De San Roque SA', u'date_to': u'2017-01-03'}],",
+        "name": "JUAN CARLOS RUIZ BOIX"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,PA,Setenil de las Bodegas\n",
+        "companies": "{u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}],",
+        "name": "RAFAEL VARGAS VILLALON"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.- A,Tarifa\n",
+        "companies": "{u'date_from': u'2017-01-25', u'name': u'Agua Y Residuos Del Campo De Gibraltar SA', u'title': u'Consejero'}, {u'date_from': u'2017-03-14', u'name': u'Urbanizadora Tarife\\xf1a SA', u'title': u'Presidente'}, {u'date_from': u'2017-03-14', u'name': u'Urbanizadora Tarife\\xf1a SA', u'title': u'Consejero'}{u'date_from': u'2017-03-14', u'title': u'Consejero', u'name': u'Urbanizadora Tarife\\xf1a SA', u'date_to': u'2017-03-14'}, {u'date_from': u'2017-03-14', u'title': u'Consejero', u'name': u'Urbanizadora Tarife\\xf1a SA', u'date_to': u'2017-03-14'}],",
+        "name": "FRANCISCO RUIZ GIRALDEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Torre Alháquime\n",
+        "companies": "{u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}],",
+        "name": "PEDRO BARROSO SALAS"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,IULV-CA,Trebujena\n",
+        "companies": "{u'date_from': u'2014-06-24', u'name': u'Suintresa Suelo Urbano E Industrial Trebujena SA', u'title': u'Liquidador'}, {u'date_from': u'2018-04-24', u'name': u'Trebujena Emprende SL', u'title': u'Presidente'}, {u'date_from': u'2018-04-24', u'name': u'Trebujena Emprende SL', u'title': u'Consejero'}{u'date_from': u'2013-11-18', u'title': u'Presidente', u'name': u'Piscicola De Trebujena SA', u'date_to': u'2016-08-04'}, {u'date_from': u'2013-11-18', u'title': u'Consejero', u'name': u'Piscicola De Trebujena SA', u'date_to': u'2016-08-04'}, {u'title': u'Consejero', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'title': u'Vicepresid.', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'date_from': u'2018-04-24', u'title': u'Consejero', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'date_from': u'2018-04-24', u'title': u'Vicepresid.', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'date_from': u'2018-04-24', u'title': u'Presidente', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'date_from': u'2018-04-24', u'title': u'Consejero', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'date_from': u'2018-04-24', u'title': u'Presidente', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}, {u'date_from': u'2018-04-24', u'title': u'Consejero', u'name': u'Trebujena Emprende SL', u'date_to': u'2018-04-24'}],",
+        "name": "JORGE DAVID RODRIGUEZ PEREZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944660>,P.S.O.E.-A,Ubrique\n",
+        "companies": "{u'date_from': u'2012-09-27', u'name': u'Finca Los Llanos SL', u'title': u'Adm. Mancom.'}, {u'date_from': u'2012-12-31', u'name': u'Gestion Horman SL', u'title': u'Adm. Unico'}, {u'date_from': u'2012-12-31', u'name': u'Ferrallas El Cid SL', u'title': u'Adm. Mancom.'}, {u'date_from': u'2013-04-15', u'name': u'Ch4 Soluciones Energeticas SL', u'title': u'Adm. Unico'}, {u'date_from': u'2017-04-05', u'name': u'Caritransvalencia SL', u'title': u'Adm. Unico'}],",
+        "name": "ISABEL GOMEZ GARCIA"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Villaluenga del Rosario\n",
+        "companies": "{u'title': u'Consejero', u'name': u'Aguas De La Sierra De Cadiz SA', u'date_to': u'2012-10-02'}, {u'date_from': u'2011-10-25', u'title': u'Consejero', u'name': u'Turismo Gaditano SA', u'date_to': u'2015-12-02'}],",
+        "name": "ALFONSO CARLOS MOSCOSO GONZALEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,PA,Villamartín\n",
+        "companies": "{u'date_from': u'2012-10-02', u'title': u'Consejero', u'name': u'Aguas De La Sierra De Cadiz SA', u'date_to': u'2016-06-09'}],",
+        "name": "JUAN LUIS MORALES GALLARDO"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,PSOE-A,Zahara\n",
+        "companies": "{u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Presidente'}, {u'date_from': u'2016-06-09', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Consejero'}, {u'date_from': u'2017-01-19', u'name': u'Aguas De La Sierra De Cadiz SA', u'title': u'Con.Delegado'}, {u'date_from': u'2018-06-21', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Presidente'}, {u'date_from': u'2018-06-21', u'name': u'Basuras Sierra De Cadiz SA', u'title': u'Consejero'}],",
+        "name": "JUAN MARIA NIETO SANCHEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,Benalup-Casas Viejas\n",
+        "companies": "{u'date_from': u'2009-07-29', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Huelva, Jerez Y Sevilla ', u'title': u'Vpr.Com.Ctr'}, {u'date_from': u'2009-07-29', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Huelva, Jerez Y Sevilla ', u'title': u'Miem.Com.Ctr'}, {u'date_from': u'2012-11-20', u'name': u'Bcv Servicios Municipales SL', u'title': u'Presidente'}, {u'date_from': u'2012-11-20', u'name': u'Bcv Servicios Municipales SL', u'title': u'Consejero'}, {u'date_from': u'2013-07-01', u'name': u'Bcv Servicios Municipales SL', u'title': u'Con.Delegado'}{u'title': u'Consejero', u'name': u'Monte De Piedad Y Caja De Ahorros San Fernando De Huelva, Jerez Y Sevilla ', u'date_to': u'2009-07-29'}],",
+        "name": "AMALIA ROMERO BENITEZ"
+    },
+    {
+        "group": ",<open file 'resultados.csv', mode 'a' at 0x7fe970944300>,P.S.O.E.-A,San José del Valle\n",
+        "companies": "{u'date_from': u'2017-06-02', u'name': u'Explotaciones Agrarias Valderrega\\xf1a SL', u'title': u'Consejero'}, {u'date_from': u'2017-06-02', u'name': u'Explotaciones Agrarias Valderrega\\xf1a SL', u'title': u'Cons.Del.Sol'}],",
+        "name": "ANTONIO GONZALEZ CARRETERO"
+    }
+]
