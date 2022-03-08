@@ -7,8 +7,8 @@ if(isset($_GET['page'])){
 	$file = fopen("prueba-01.txt", "a+");
 	fwrite($file, $w . PHP_EOL);
 	fclose($file);
-	header('Location: http://www.quantika14.com/');
+	header('Location: http://www.Wikipedia.com/');
 }else{
-	header('Location: http://www.quantika14.com');
+	header('Location: http://www.Wikipedia.com');
 }
 ?>
